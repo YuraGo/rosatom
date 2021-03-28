@@ -1,0 +1,8 @@
+ru\rosatom\Payroll\model\Employee.class
+ru\rosatom\Payroll\ServletInitializer.class
+ru\rosatom\Payroll\PayrollApplication.class
+ru\rosatom\Payroll\Controller\EmployeeController.class
+ru\rosatom\Payroll\Controller\EmployeeNotFoundAdvice.class
+ru\rosatom\Payroll\Controller\EmployeeNotFoundException.class
+ru\rosatom\Payroll\dao\LoadDatabase.class
+ru\rosatom\Payroll\model\EmployeeRepository.class
